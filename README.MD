@@ -7,6 +7,8 @@ An executive-level data analysis and product strategy deliverable evaluating dig
 ## Executive Summary & Data Findings
 
 An investigation into digital music storefront sales metrics reveals a heavily segmented market structure. Catalog value and pricing power are governed strictly by **Verified Listener Proof** versus **Automated High-Frequency Supply**.
+
+
 +-----------------------------------------------------------------------------------+
 |                            MUSIC CATALOG SEGMENTATION                             |
 +-----------------------------------------------------------------------------------+
@@ -48,18 +50,16 @@ Automated music generation tools and synthetic catalogue flushes create signific
 
 Emerging human artists entering digital storefronts often lack initial reviews, causing algorithms to lump them into the zero-review "Sludge" tier. To break out into the **Contemporary Tier**, this strategy aligns an artist's sonic identity with listener recommendation systems.
 
-[ NORTH ]
-         The Micro-Signal
-     (Hyper-Specific Tags)
-              |
-
-[ WEST ]        |        [ EAST ]
+              [ NORTH ]
+            The Micro-Signal
+         (Hyper-Specific Tags)
+[ WEST ]          |        [ EAST ]
 Persona Anchor <--+--> Algorithmic Calibration
 (Visual Identity) |   (High-Retention Micro-Content)
-|
-[ SOUTH ]
-Human Proof
-(Reviews, Saves & Vinyl)
+                  |
+              [ SOUTH ]
+              Human Proof
+        (Reviews, Saves & Vinyl)
 
 * **NORTH (The Micro-Signal):** Lead with hyper-specific sonic qualifiers rather than broad genre tags (e.g., *7/4 syncopated pocket funk* instead of *Jazz*).
 * **EAST (Algorithmic Calibration):** Deliver high-retention micro-content (15–30s performance clips) that triggers collaborative filtering and vector matching in recommendation engines.
@@ -71,6 +71,8 @@ Human Proof
 ## Product Concept: The Digital Jukebox
 
 To counteract the devaluation of music caused by flat-rate streaming and infinite supply, this project proposes **Reintroducing Digital Scarcity** via a credit-based discovery model.
+
+
 +-----------------------------------------------------------------------------------+
 |                              DIGITAL JUKEBOX FLOW                                 |
 +-----------------------------------------------------------------------------------+
