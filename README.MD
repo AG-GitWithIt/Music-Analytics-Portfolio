@@ -1,6 +1,6 @@
 # Music Catalog Valuation, AI Market Distortion, & Artist Breakthrough Strategy
 
-An executive-level data analysis and product strategy deliverable evaluating digital storefront pricing dynamics, algorithmic recommendation engines, and new commercial models designed to help emerging talent break through market noise.
+An executive-level data analysis and product strategy deliverable evaluating digital storefront pricing dynamics, algorithmic recommendation engines, and new commercial models designed to help emerging talent break through market noise. The study was conducted specifically in the jazz segment
 
 ---
 
