@@ -7,7 +7,6 @@ An executive-level data analysis and product strategy deliverable evaluating dig
 ## Executive Summary & Data Findings
 
 An investigation into digital music storefront sales metrics reveals a heavily segmented market structure. Catalog value and pricing power are governed strictly by **Verified Listener Proof** versus **Automated High-Frequency Supply**.
-
 +-----------------------------------------------------------------------------------+
 |                            MUSIC CATALOG SEGMENTATION                             |
 +-----------------------------------------------------------------------------------+
@@ -20,7 +19,6 @@ An investigation into digital music storefront sales metrics reveals a heavily s
 |  TIER 3: TRANSIENTS     |  0 - 10 Reviews          |  $5.99 - $8.99 Price Point   |
 |  (AI Sludge & Mood)     |  Passive Background Play |  High-Velocity Supply        |
 +-----------------------------------------------------------------------------------+
-
 
 ### Key Market Tier Metrics
 
@@ -70,11 +68,9 @@ Human Proof
 
 ---
 
-
 ## Product Concept: The Digital Jukebox
 
 To counteract the devaluation of music caused by flat-rate streaming and infinite supply, this project proposes **Reintroducing Digital Scarcity** via a credit-based discovery model.
-
 +-----------------------------------------------------------------------------------+
 |                              DIGITAL JUKEBOX FLOW                                 |
 +-----------------------------------------------------------------------------------+
@@ -86,7 +82,6 @@ v
 [Earned Physical Discount Funnel]
 (Vinyl, CDs, Direct Downloads)
 
-
 ### Core Product Mechanics
 * **Digital Scarcity (20 Monthly Credits):** Replaces infinite scrolling with intentional choices. Forcing a user to spend a scarce "quarter" elevates every play from background utility to an active decision.
 * **Zero-Party Data Exchange:** Users receive monthly credits in exchange for direct engagement (email opt-ins, survey preferences), creating direct-to-fan marketing channels for independent artists.
@@ -97,12 +92,17 @@ v
 
 ## Technical Stack & Analytics Workflow
 
-* **SQL:** Extracted and structured storefront data using CTEs, conditional aggregations (`CASE WHEN`), and window functions (`ROW_NUMBER()`, `NTILE()`) to segment releases into performance tiers.
-* **Microsoft Excel:** Developed financial models evaluating price elasticity, revenue-per-stream sensitivity, and catalog valuation multiples.
-* **Tableau:** Built an interactive dashboard featuring executive drill-down actions that isolate AI market distortion from organic artist performance.
+This analysis utilizes a production-grade analytics workflow to transform raw digital storefront metrics into actionable market intelligence:
+
+* **SQL (`/sql`):** Multi-stage data extraction, catalog tiering, and pricing elasticity modeling using Common Table Expressions (CTEs), conditional window functions (`NTILE()`, `ROW_NUMBER()`), and aggregated logic.
+* **Microsoft Excel (`/excel`):** Price sensitivity modeling, revenue-per-stream distributions, and catalog valuation multiples.
+* **Tableau (`/tableau`):** Interactive executive dashboards featuring drill-down actions that isolate synthetic catalog volume from organic human performance.
+
+> *Note: Production SQL scripts for catalog segmentation and percentile ranking are organized in the [`/sql`](./sql) folder.*
 
 ---
 
 ## Strategic Mission
 
 > *"Infinite access has turned music into background utility. The goal of this analysis and product strategy is to build data-driven tools, metadata frameworks, and discovery platforms that rescue living talent from algorithmic noise and help artists monetize their craft sustainably."*
+
