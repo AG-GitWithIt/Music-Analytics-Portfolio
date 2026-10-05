@@ -8,19 +8,11 @@ An executive-level data analysis and product strategy deliverable evaluating dig
 
 An investigation into digital music storefront sales metrics reveals a heavily segmented market structure. Catalog value and pricing power are governed strictly by **Verified Listener Proof** versus **Automated High-Frequency Supply**.
 
-
-+-----------------------------------------------------------------------------------+
-|                            MUSIC CATALOG SEGMENTATION                             |
-+-----------------------------------------------------------------------------------+
-|  TIER 1: ANCHORS        |  1,000 - 11,000+ Reviews  |  $10.50 - $14.99+ Price Point |
-|  (Legacy Institutions)  |  High Organic Search     |  Inelastic Demand             |
-+-------------------------+--------------------------+------------------------------+
-|  TIER 2: CONTEMPORARIES |  50 - 1,000 Reviews      |  $8.99 - $11.49 Price Point  |
-|  (Active Artists)       |  Touring & Social Driven |  Elastic / Active Discovery  |
-+-------------------------+--------------------------+------------------------------+
-|  TIER 3: TRANSIENTS     |  0 - 10 Reviews          |  $5.99 - $8.99 Price Point   |
-|  (AI Sludge & Mood)     |  Passive Background Play |  High-Velocity Supply        |
-+-----------------------------------------------------------------------------------+
+| Tier | Profile & Pricing | Market Dynamics |
+| :--- | :--- | :--- |
+| **Tier 1: Anchors**<br>*(Legacy Institutions)* | **1,000 - 11,000+ Reviews**<br>$10.50 - $14.99+ Price Point | High Organic Search<br>Inelastic Demand |
+| **Tier 2: Contemporaries**<br>*(Active Working Artists)* | **50 - 1,000 Reviews**<br>$8.99 - $11.49 Price Point | Touring & Social Driven<br>Elastic / Active Discovery |
+| **Tier 3: Transients**<br>*(AI Sludge & Mood)* | **0 - 10 Reviews**<br>$5.99 - $8.99 Price Point | Passive Background Play<br>High-Velocity Supply |
 
 ### Key Market Tier Metrics
 
