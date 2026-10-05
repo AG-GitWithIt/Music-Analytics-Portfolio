@@ -80,15 +80,26 @@ To counteract the devaluation of music caused by flat-rate streaming and infinit
 |  Intentional Budgeting       "7/4 Pocket Funk / Trio"       Listener Preference   |
 +-----------------------------------------------------------------------------------+
 |
-v
-[Earned Physical Discount Funnel]
-(Vinyl, CDs, Direct Downloads)
+> 📑 **Full Architecture & Economics Spec:** Read the complete executive deliverable at [`docs/PRODUCT_SPEC_DIGITAL_JUKEBOX.md`](./docs/PRODUCT_SPEC_DIGITAL_JUKEBOX.md).
 
 ### Core Product Mechanics
 * **Digital Scarcity (20 Monthly Credits):** Replaces infinite scrolling with intentional choices. Forcing a user to spend a scarce "quarter" elevates every play from background utility to an active decision.
 * **Zero-Party Data Exchange:** Users receive monthly credits in exchange for direct engagement (email opt-ins, survey preferences), creating direct-to-fan marketing channels for independent artists.
 * **Descriptor-First Interface:** Digital "jukebox cards" display technical qualifiers (*"Syncopated Pocket Funk / Ghost-Note Snare / Live Trio"*) alongside audio clips before a credit is spent.
 * **Earned Discount Funnel:** Spending credits unlocks weekly tiered discounts on high-margin physical formats (vinyl, CDs) and MP3 downloads, converting casual listeners into paying physical owners.
+
+## 🚀 Featured Deliverable: Product Strategy & Economics Spec
+
+### [docs/PRODUCT_SPEC_DIGITAL_JUKEBOX.md](./docs/PRODUCT_SPEC_DIGITAL_JUKEBOX.md)
+A comprehensive product strategy and unit economics specification that addresses the **Superfan Monetization Gap** in streaming.
+
+* **Core Innovation:** Capping passive monthly playback (20-credit allowance) to re-introduce intentionality and scarcity into digital audio.
+* **Unit Economics Shift:** Transforms pro-rata $0.0038/stream payouts into $1.99 micro-transaction credit top-ups, driving an effective **$1.61 net yield per play (+420% margin expansion)**.
+* **Catalog Equity Impact:** Feeds directly into our Excel valuation model by establishing predictable, high-yield cash flows for mid-tier and niche catalogs (e.g., Jazz, Independent releases).
+* **Metadata Architecture:** Features a granular sub-genre metadata schema (session musicians, recording environment, era influence) to break algorithmic playlist bias.
+v
+[Earned Physical Discount Funnel]
+(Vinyl, CDs, Direct Downloads)
 
 ---
 
