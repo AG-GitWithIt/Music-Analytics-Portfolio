@@ -42,16 +42,12 @@ Automated music generation tools and synthetic catalogue flushes create signific
 
 Emerging human artists entering digital storefronts often lack initial reviews, causing algorithms to lump them into the zero-review "Sludge" tier. To break out into the **Contemporary Tier**, this strategy aligns an artist's sonic identity with listener recommendation systems.
 
-              [ NORTH ]
-            The Micro-Signal
-         (Hyper-Specific Tags)
-[ WEST ]          |        [ EAST ]
-Persona Anchor <--+--> Algorithmic Calibration
-(Visual Identity) |   (High-Retention Micro-Content)
-                  |
-              [ SOUTH ]
-              Human Proof
-        (Reviews, Saves & Vinyl)
+| Direction | Pillar | Key Execution Strategy |
+| :--- | :--- | :--- |
+| **NORTH** | **The Micro-Signal** | Lead with hyper-specific sonic qualifiers rather than broad genre tags (e.g., *7/4 syncopated pocket funk* instead of *Jazz*). |
+| **EAST** | **Algorithmic Calibration** | Deliver high-retention micro-content (15–30s performance clips) that triggers collaborative filtering and vector matching in engines. |
+| **SOUTH** | **Human Proof** | Convert initial algorithmic sparks into verified reviews, saves, and physical sales to escape the zero-review sludge. |
+| **WEST** | **The Persona Anchor** | Explicitly link the artist's visual profile and name to the peak musical moment during discovery. |
 
 * **NORTH (The Micro-Signal):** Lead with hyper-specific sonic qualifiers rather than broad genre tags (e.g., *7/4 syncopated pocket funk* instead of *Jazz*).
 * **EAST (Algorithmic Calibration):** Deliver high-retention micro-content (15–30s performance clips) that triggers collaborative filtering and vector matching in recommendation engines.
