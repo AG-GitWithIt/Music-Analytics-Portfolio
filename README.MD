@@ -107,3 +107,7 @@ This analysis utilizes a production-grade analytics workflow to transform raw di
 
 > *"Infinite access has turned music into background utility. The goal of this analysis and product strategy is to build data-driven tools, metadata frameworks, and discovery platforms that rescue living talent from algorithmic noise and help artists monetize their craft sustainably."*
 
+### 📊 Phase 2: Unit Economics & Jukebox Strategy
+* **Deep-Dive Strategic Memo:** [`JUKEBOX_STRATEGY.md`](./JUKEBOX_STRATEGY.md)
+* **Financial Model:** [`Jukebox_Unit_Economics.xlsx`](./Jukebox_Unit_Economics.xlsx)
+> *Models a 5,000-user gated superfan club delivering **$112,560 net platform revenue (37.5% margin)** on $300k gross spend via a 12% breakage shield and adaptive refill mechanics.*
